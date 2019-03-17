@@ -1,0 +1,1 @@
+select COUNT(*) from st_trading_eod_statsbook
